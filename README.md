@@ -1,6 +1,6 @@
 # Ember-cli-datatables-bs
 
-WARNING! This project is still very much a work in progress. I am just learning Ember and needed datatables for a project. I plan on supporting this but it may take some time for this to be considered stable.
+WARNING! This project is no longer maintained as I'm no longer using Ember. This was tested and works and was the first "complete' datatables widget available for Ember. Please fork and continue work as you see fit.
 
 ## Requirements
 
